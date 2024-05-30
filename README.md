@@ -13,7 +13,7 @@ This dataset includes source code used for data acquisition and analysis, and an
 
 ## Experimental material
 - Intake questionnaire
-- Consent form
+- Consent form-template
 - Voice notification
 - NDRAs - [video link](https://youtu.be/seDX-MwoMJc?si=Ygf9BcaK_FUweHU)
 
@@ -22,7 +22,7 @@ This dataset includes source code used for data acquisition and analysis, and an
 - The questionnaire
 - The raw data from the questionnaire
 
-### Interview Recording
+### Interview
 - Transcripts and coding in MAXQDA
 - Coding scheme
 
